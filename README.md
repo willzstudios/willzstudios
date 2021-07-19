@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @willzstudios
-- 👀 I’m interested in ... game development
+- 👀 I’m interested in ... game development and software development
 - 🌱 I’m currently learning ... Unity with C#
 - 💞️ I’m looking to collaborate on ... games!
-- 📫 How to reach me ... willzstudios@ gmail.com
+- 📫 How to reach me ... www.willzstudios.com
 
 <!---
 willzstudios/willzstudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
