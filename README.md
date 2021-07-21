@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Will
+- 👋 Hi, I’m Will!
 - 👀 I’m interested in ... game development and software development
 - 🌱 I’m currently learning ... C#, Unity, SQL, and .NET framework
 - 💞️ I’m looking to collaborate on ... software and games!
