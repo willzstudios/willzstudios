@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Will!
 - 👀 I’m interested in ... game development and software development
-- 🌱 I’m currently learning ... C#, Unity, SQL, and .NET framework
+- 🌱 I’m currently learning ... C#, Unity, SQL, PHP and .NET framework
 - 💞️ I’m looking to collaborate on ... software and games!
 - 📫 How to reach me ... www.willzstudios.com
 
